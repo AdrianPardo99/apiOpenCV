@@ -31,7 +31,7 @@ sudo apt-get install -y libtbb-dev libeigen3-dev
 sudo apt-get install -y python-dev python-tk python-numpy python3-dev python3-tk python3-numpy
 
 # Java:
-sudo apt-get install -y ant default-jdk
+sudo apt-get install -y ant
 
 # Documentation:
 sudo apt-get install -y doxygen
